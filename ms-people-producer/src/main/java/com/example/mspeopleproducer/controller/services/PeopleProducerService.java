@@ -1,6 +1,6 @@
-package com.example.mspeopleproducer.services;
+package com.example.mspeopleproducer.controller.services;
 
-import com.example.mspeopleproducer.models.PeopleDTO;
+import com.example.mspeopleproducer.controller.models.PeopleDTO;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.http.HttpStatus;

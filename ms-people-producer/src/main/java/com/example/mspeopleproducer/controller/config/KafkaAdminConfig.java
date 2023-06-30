@@ -1,4 +1,4 @@
-package com.example.mspeopleproducer.config;
+package com.example.mspeopleproducer.controller.config;
 
 import org.apache.kafka.clients.admin.AdminClientConfig;
 import org.springframework.beans.factory.annotation.Autowired;

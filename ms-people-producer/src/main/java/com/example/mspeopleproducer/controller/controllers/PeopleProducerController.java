@@ -1,7 +1,7 @@
-package com.example.mspeopleproducer.controllers;
+package com.example.mspeopleproducer.controller.controllers;
 
-import com.example.mspeopleproducer.models.PeopleDTO;
-import com.example.mspeopleproducer.services.PeopleProducerService;
+import com.example.mspeopleproducer.controller.models.PeopleDTO;
+import com.example.mspeopleproducer.controller.services.PeopleProducerService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

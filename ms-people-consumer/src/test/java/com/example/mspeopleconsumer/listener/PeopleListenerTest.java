@@ -1,7 +1,7 @@
 package com.example.mspeopleconsumer.listener;
 
 import com.example.mspeopleconsumer.dto.PeopleDTO;
-import com.example.mspeopleconsumer.listener.PeopleListener;
+
 import com.example.mspeopleconsumer.service.PeopleService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.clients.consumer.ConsumerRecord;

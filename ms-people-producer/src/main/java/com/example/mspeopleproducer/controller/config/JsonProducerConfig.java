@@ -1,4 +1,4 @@
-package com.example.mspeopleproducer.config;
+package com.example.mspeopleproducer.controller.config;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.kafka.clients.producer.ProducerConfig;

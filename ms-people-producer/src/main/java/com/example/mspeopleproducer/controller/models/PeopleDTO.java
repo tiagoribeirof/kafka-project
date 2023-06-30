@@ -1,6 +1,6 @@
-package com.example.mspeopleproducer.models;
+package com.example.mspeopleproducer.controller.models;
 
-import com.example.mspeopleproducer.domain.Gender;
+import com.example.mspeopleproducer.controller.domain.Gender;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
