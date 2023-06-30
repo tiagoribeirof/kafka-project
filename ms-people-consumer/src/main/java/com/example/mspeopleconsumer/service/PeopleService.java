@@ -1,9 +1,9 @@
-package com.example.mspeoppleconsumer.service;
+package com.example.mspeopleconsumer.service;
 
-import com.example.mspeoppleconsumer.converter.PeoplerMapper;
-import com.example.mspeoppleconsumer.dto.PeopleDTO;
-import com.example.mspeoppleconsumer.models.People;
-import com.example.mspeoppleconsumer.repository.PeopleRepository;
+import com.example.mspeopleconsumer.converter.PeoplerMapper;
+import com.example.mspeopleconsumer.dto.PeopleDTO;
+import com.example.mspeopleconsumer.repository.PeopleRepository;
+import com.example.mspeopleconsumer.models.People;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;

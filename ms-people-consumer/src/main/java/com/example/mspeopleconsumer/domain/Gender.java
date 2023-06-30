@@ -1,4 +1,4 @@
-package com.example.mspeoppleconsumer.domain;
+package com.example.mspeopleconsumer.domain;
 
 
 import com.fasterxml.jackson.annotation.JsonValue;

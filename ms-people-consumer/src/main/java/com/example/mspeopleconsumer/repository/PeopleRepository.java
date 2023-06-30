@@ -1,6 +1,6 @@
-package com.example.mspeoppleconsumer.repository;
+package com.example.mspeopleconsumer.repository;
 
-import com.example.mspeoppleconsumer.models.People;
+import com.example.mspeopleconsumer.models.People;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

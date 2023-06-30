@@ -1,6 +1,6 @@
-package com.example.mspeoppleconsumer.models;
+package com.example.mspeopleconsumer.models;
 
-import com.example.mspeoppleconsumer.domain.Gender;
+import com.example.mspeopleconsumer.domain.Gender;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,7 +1,7 @@
-package com.example.mspeoppleconsumer.listener;
+package com.example.mspeopleconsumer.listener;
 
-import com.example.mspeoppleconsumer.dto.PeopleDTO;
-import com.example.mspeoppleconsumer.service.PeopleService;
+import com.example.mspeopleconsumer.dto.PeopleDTO;
+import com.example.mspeopleconsumer.service.PeopleService;
 
 
 import lombok.RequiredArgsConstructor;
@@ -18,7 +18,7 @@ public class PeopleListener {
     private final PeopleService peopleService;
 
     @KafkaListener(topics = "people-topic", groupId = "group-1", containerFactory = "jsonContainerFactory")
-    public void received(@Payload PeopleDTO people){
+    public void accept(@Payload PeopleDTO people){
         log.info("Receiving people name : " + people.getName());
         peopleService.save(people);
 

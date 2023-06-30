@@ -1,4 +1,4 @@
-package com.example.mspeoppleconsumer.config;
+package com.example.mspeopleconsumer.config;
 
 
 import lombok.RequiredArgsConstructor;

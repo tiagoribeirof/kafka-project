@@ -1,8 +1,8 @@
-package com.example.mspeoppleconsumer.converter;
+package com.example.mspeopleconsumer.converter;
 
 
-import com.example.mspeoppleconsumer.dto.PeopleDTO;
-import com.example.mspeoppleconsumer.models.People;
+import com.example.mspeopleconsumer.dto.PeopleDTO;
+import com.example.mspeopleconsumer.models.People;
 import org.mapstruct.Mapper;
 
 
